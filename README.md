@@ -54,3 +54,6 @@ Email-Automation-Reminder-System/
    ```bash
    python main.py --send
    ```
+
+   <img width="1917" height="953" alt="pic 2" src="https://github.com/user-attachments/assets/013411b6-23da-4749-a3c6-758c99504a7b" />
+
